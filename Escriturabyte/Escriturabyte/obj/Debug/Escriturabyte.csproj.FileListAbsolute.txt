@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\bin\Debug\Escriturabyte.exe.config
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\bin\Debug\Escriturabyte.exe
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\bin\Debug\Escriturabyte.pdb
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.exe
+C:\Users\DELL\source\repos\Escriturabyte\Escriturabyte\obj\Debug\Escriturabyte.pdb
